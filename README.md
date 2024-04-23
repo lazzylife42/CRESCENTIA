@@ -3,7 +3,7 @@ Un jeu pour la Game jam 1.0 de 42 Lausanne du 19 au 21 avril 2024.
 Crescentia est survivor-like en coopération locale asymétrique où deux joueurs sont amenés à s'entraider et se protéger.  
 ![](https://img.itch.zone/aW1nLzE1ODQ5OTY5LmpwZw==/315x250%23c/iBP7JM.jpg)  
 
-[Essaye le !](https://vonwerner.itch.io/crescentia)  
+[Essaye le !](https://lazzylife42.itch.io/test) (version patchée)  
 
 ## 📖 PITCH
 
